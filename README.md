@@ -50,7 +50,8 @@ La app sigue el patrón de **Clean Architecture**, separando las responsabilidad
 ## 📷 Vista Previa
 
 <p align="center">
-  <img src="https://via.placeholder.com/300x600?text=ChatBot+Screen" alt="Pantalla de ChatBot">
+  <img src="https://github.com/xvirs/ChatBot/blob/main/app/src/main/res/imageProyect/Captura%20de%20pantalla%202025-03-16%20182450.png" alt="Pantalla de ChatBot">
+  <img src="https://github.com/xvirs/ChatBot/blob/main/app/src/main/res/imageProyect/Captura%20de%20pantalla%202025-03-16%20182256.png" alt="Pantalla de ChatBot">
 </p>
 
 ---
